@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You won't read it...!
 
 
-[![@Bhumika0403's Holopin board](https://holopin.me/Bhumika0403)](https://holopin.io/@Bhumika0403)
 
 
 
