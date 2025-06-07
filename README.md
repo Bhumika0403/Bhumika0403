@@ -147,7 +147,10 @@ Here are some ideas to get you started:
 <!-- outro -->
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Bhumika0403 alt=Bhumika0403/> </p>
 <p align="center"> <a href="https://x.com/BhumikaVarshn11?t=m4XBNYbhuZD5IO9mX6pljQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/BhumikaVarshn11?logo=twitter&style=for-the-badge" alt="Bhumika Varshney" /></a> 
-  ![](https://leetcard.jacoblin.cool/Bhumika1604?ext=heatmap)
+
 
 </p>
 
+<div>
+  <img align="center" src="https://leetcard.jacoblin.cool/Bhumika1604?font=patrick_hand" alt="LeetCode Stats">
+</div>
