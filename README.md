@@ -119,14 +119,14 @@ Here are some ideas to get you started:
 <p align="center">Whether you are willing to collaborate or check my activity, Feel free to connect :)</p>
 
 <p align="center">
-<a href="https://twitter.com/its_akt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_akt_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/Bhumika-kumar-432801206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhumika-kumar" height="28" width="40" /></a>
-<a href="https://discord.gg/Bhumika0403#5915" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Bhumika-kumar" height="35" width="45" /></a>
-<a href="https://instagram.com/its_a.k.t?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_a.k.t" height="28" width="38" /></a>
-<a href="mailto:Bhumikakr9976@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Bhumika Kumar Tiwari" height="30" width="40" /></a>
-<a href="https://t.me/its_akt" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009518215980" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Bhumika Kumar Tiwari" height="28" width="37" /></a>
-<a href="https://www.quora.com/profile/Bhumika-Tiwari-794" target="blank"><img align="center" src="https://www.svgrepo.com/show/343515/quora-network-communication-chat-conversation-connection.svg" alt=" " height="28" width="38" /></a>
+<a href="https://x.com/BhumikaVarshn11?t=m4XBNYbhuZD5IO9mX6pljQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BhumikaVarshn11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhumika-varshney-90ba64295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhumika Varshney" height="28" width="40" /></a>
+<a href="https://discord.gg/Bhumika0403#5915" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Bhumika Varshney" height="35" width="45" /></a>
+<a href="https://instagram.com/bhumika8508?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bhumika Varshney" height="28" width="38" /></a>
+<a href="mailto:bhumikavarshney33@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Bhumika Varshney" height="30" width="40" /></a>
+<a href="https://t.me/bhumikavarshney_04" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a>
+<a href="https://www.facebook.com/bhumika.varshney.562" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Bhumika Varshney" height="28" width="37" /></a>
+
 </p>
 
   
@@ -136,9 +136,9 @@ Here are some ideas to get you started:
 <p align="center">
 <!-- ![snake animation](https://github.com/Bhumika0403/blob/output/github-contribution-grid-snake2.svg) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhumika0403/Bhumika0403/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhumika0403/Bhumika0403/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bhumika0403/Bhumika0403/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhumika0403/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhumika0403/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bhumika0403/output/github-snake.svg" />
 </picture>
 
 </p>
@@ -146,7 +146,8 @@ Here are some ideas to get you started:
 
 <!-- outro -->
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Bhumika0403 alt=Bhumika0403/> </p>
-<p align="center"> <a href="https://twitter.com/its_aKT_" target="blank"><img src="https://img.shields.io/twitter/follow/its_akt_?logo=twitter&style=for-the-badge" alt="its_akt_" /></a> 
+<p align="center"> <a href="https://x.com/BhumikaVarshn11?t=m4XBNYbhuZD5IO9mX6pljQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/BhumikaVarshn11?logo=twitter&style=for-the-badge" alt="Bhumika Varshney" /></a> 
+  ![](https://leetcard.jacoblin.cool/Bhumika1604?ext=heatmap)
+
 </p>
-![](https://leetcard.jacoblin.cool/bhumika0403?ext=heatmap)
 
