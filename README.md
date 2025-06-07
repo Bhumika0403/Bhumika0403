@@ -131,18 +131,16 @@ Here are some ideas to get you started:
 
   
 <br>
-<!-- Github contribution grid snake -->
 <h1 align="center">Contributions</h1>
 <p align="center">
-<!-- ![snake animation](https://github.com/Bhumika0403/blob/output/github-contribution-grid-snake2.svg) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhumika0403/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhumika0403/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bhumika0403/output/github-snake.svg" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhumika0403/output/main/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhumika0403/output/main/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bhumika0403/output/main/github-snake.svg" />
+  </picture>
 </p>
-<be>
+
+
 
 <!-- outro -->
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Bhumika0403 alt=Bhumika0403/> </p>
@@ -152,5 +150,5 @@ Here are some ideas to get you started:
 </p>
 
 <div>
-  <img align="center" src="https://leetcard.jacoblin.cool/Bhumika1604?font=patrick_hand" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/Bhumika1604?theme=dark" alt="LeetCode Stats">
 </div>
