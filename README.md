@@ -4,7 +4,7 @@
 <!-- -------------------------------BG Template---------------------------- -->
 
 <p align="center">
-<img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/hlo.png">
+<img src="https://img.freepik.com/premium-photo/elementary-school-teacher-digital-avatar-generative-ai_934475-9068.jpg?w=2000" width="250">
 <!-- <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="center" width="1100" height="500"/> -->
   </p>
 
